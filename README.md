@@ -1,9 +1,9 @@
 # Projeto: dslist
 Projeto criado apartir de um intensivão do DEVSUPERIOR.
 
-## Foi realizado utilizando a linguagem de programação JAVA, com o Framework Spring Boot e API JPA. O Projeto tem o foco no Backend, assim o Front que será utilizado foi o disponibilizado pelo Nelio que foi o Professor.
+### Foi realizado utilizando a linguagem de programação JAVA, com o Framework Spring Boot e API JPA. O Projeto tem o foco no Backend, assim o Front que será utilizado foi o disponibilizado pelo Nelio que foi o Professor.
 
-## É válido deixar em destaque o que foi realizado nesse mini curso, assim posso dizer:
+### É válido deixar em destaque o que foi realizado nesse mini curso, assim posso dizer:
 
 ![image](https://github.com/alifi3988/dslist/assets/83408199/f0bafca5-9b1a-4ce7-aa34-3f647fbddfa9)
 
