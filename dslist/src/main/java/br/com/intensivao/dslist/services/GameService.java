@@ -22,9 +22,7 @@ public class GameService {
 	
 	@Transactional
 	public GameDTO findById(Long id) {
-		System.out.println("ID: " + id);
 		var game = repository.findById(id).get();
-		System.out.println(game.toString());
 		return new GameDTO(game);
 	}
 	
